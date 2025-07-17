@@ -1,0 +1,17 @@
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\bin\Debug\net9.0\Clean_Architecture.Applicaiton.deps.json
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\bin\Debug\net9.0\Clean_Architecture.Applicaiton.dll
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\bin\Debug\net9.0\Clean_Architecture.Applicaiton.pdb
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\bin\Debug\net9.0\Clean_Architecture.Domain.dll
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\bin\Debug\net9.0\Clean_Architecture.Domain.pdb
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\Clean_Architecture.Applicaiton.csproj.AssemblyReference.cache
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\Clean_Architecture.Applicaiton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\Clean_Architecture.Applicaiton.AssemblyInfoInputs.cache
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\Clean_Architecture.Applicaiton.AssemblyInfo.cs
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\Clean_Architecture.Applicaiton.csproj.CoreCompileInputs.cache
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\Clean_Ar.C20BE552.Up2Date
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\Clean_Architecture.Applicaiton.dll
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\refint\Clean_Architecture.Applicaiton.dll
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\Clean_Architecture.Applicaiton.pdb
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\obj\Debug\net9.0\ref\Clean_Architecture.Applicaiton.dll
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\bin\Debug\net9.0\Clean_Architecture.Share.dll
+D:\Fullstack\ASP .NET\API\Clearn_Architecture.Applicaiton\bin\Debug\net9.0\Clean_Architecture.Share.pdb

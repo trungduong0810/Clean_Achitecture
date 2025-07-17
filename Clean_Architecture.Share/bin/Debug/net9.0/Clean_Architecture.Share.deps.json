@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Clean_Architecture.Share/1.0.0": {
+        "runtime": {
+          "Clean_Architecture.Share.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clean_Architecture.Share/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

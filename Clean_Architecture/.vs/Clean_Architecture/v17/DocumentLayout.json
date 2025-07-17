@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A391B799-7F65-4F1B-B9AA-04831ACF9090}|..\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj|d:\\fullstack\\asp .net\\api\\clearn_architecture.applicaiton\\project\\queries\\getprojectbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666B1482-6CEB-41CF-9D2F-7208D35D8090}|..\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj|d:\\fullstack\\asp .net\\api\\clean_architecture.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A391B799-7F65-4F1B-B9AA-04831ACF9090}|..\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj|d:\\fullstack\\asp .net\\api\\clearn_architecture.applicaiton\\project\\commands\\createproject\\createproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666B1482-6CEB-41CF-9D2F-7208D35D8090}|..\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj|d:\\fullstack\\asp .net\\api\\clean_architecture.domain\\events\\projectcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A391B799-7F65-4F1B-B9AA-04831ACF9090}|..\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj|d:\\fullstack\\asp .net\\api\\clearn_architecture.applicaiton\\common\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC801F-E48F-4ECB-84E7-A08ED8D80514}|..\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj|d:\\fullstack\\asp .net\\api\\clean_architecture.infrastructure\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC801F-E48F-4ECB-84E7-A08ED8D80514}|..\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj|d:\\fullstack\\asp .net\\api\\clean_architecture.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC801F-E48F-4ECB-84E7-A08ED8D80514}|..\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj|d:\\fullstack\\asp .net\\api\\clean_architecture.infrastructure\\clean_architecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A391B799-7F65-4F1B-B9AA-04831ACF9090}|..\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj|d:\\fullstack\\asp .net\\api\\clearn_architecture.applicaiton\\project\\events\\projectcreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "..\\Clean_Architecture.Domain\\Entities\\Project.cs",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "..\\Clean_Architecture.Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:26:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Persistence\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "..\\Clean_Architecture.Infrastructure\\Persistence\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Persistence\\ApplicationDBContext.cs",
+              "RelativeToolTip": "..\\Clean_Architecture.Infrastructure\\Persistence\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:20:26.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clean_Architecture.Infrastructure",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T01:20:20.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProject.cs",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Project\\Commands\\CreateProject\\CreateProject.cs",
+              "RelativeDocumentMoniker": "..\\Clearn_Architecture.Applicaiton\\Project\\Commands\\CreateProject\\CreateProject.cs",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Project\\Commands\\CreateProject\\CreateProject.cs",
+              "RelativeToolTip": "..\\Clearn_Architecture.Applicaiton\\Project\\Commands\\CreateProject\\CreateProject.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:17:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectCreateEventHandler.cs",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Project\\Events\\ProjectCreateEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\Clearn_Architecture.Applicaiton\\Project\\Events\\ProjectCreateEventHandler.cs",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Project\\Events\\ProjectCreateEventHandler.cs",
+              "RelativeToolTip": "..\\Clearn_Architecture.Applicaiton\\Project\\Events\\ProjectCreateEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:17:40.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectCreatedEvent.cs",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Events\\ProjectCreatedEvent.cs",
+              "RelativeDocumentMoniker": "..\\Clean_Architecture.Domain\\Events\\ProjectCreatedEvent.cs",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Events\\ProjectCreatedEvent.cs",
+              "RelativeToolTip": "..\\Clean_Architecture.Domain\\Events\\ProjectCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:17:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "..\\Clean_Architecture.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "..\\Clean_Architecture.Infrastructure\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:16:39.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetProjectById.cs",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Project\\Queries\\GetProjectById.cs",
+              "RelativeDocumentMoniker": "..\\Clearn_Architecture.Applicaiton\\Project\\Queries\\GetProjectById.cs",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Project\\Queries\\GetProjectById.cs",
+              "RelativeToolTip": "..\\Clearn_Architecture.Applicaiton\\Project\\Queries\\GetProjectById.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:25:25.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Common\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "..\\Clearn_Architecture.Applicaiton\\Common\\Interfaces\\IProjectRepository.cs",
+              "ToolTip": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Common\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "..\\Clearn_Architecture.Applicaiton\\Common\\Interfaces\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:21:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\bin\Debug\net9.0\Clean_Architecture.Share.deps.json
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\bin\Debug\net9.0\Clean_Architecture.Share.dll
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\bin\Debug\net9.0\Clean_Architecture.Share.pdb
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.AssemblyInfoInputs.cache
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.AssemblyInfo.cs
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.csproj.CoreCompileInputs.cache
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.dll
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\refint\Clean_Architecture.Share.dll
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.pdb
+D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\ref\Clean_Architecture.Share.dll
