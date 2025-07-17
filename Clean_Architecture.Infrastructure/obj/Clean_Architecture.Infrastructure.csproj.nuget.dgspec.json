@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj": {}
+    "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj": {
+    "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
+        "projectUniqueName": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
         "projectName": "Clean_Architecture.Domain",
-        "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
+        "projectPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
         "packagesPath": "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\",
-        "outputPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\obj\\",
+        "outputPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj": {
+    "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
         "projectName": "Clean_Architecture.Infrastructure",
-        "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
+        "projectPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\",
-        "outputPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\obj\\",
+        "outputPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,11 +105,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj": {
-                "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj"
+              "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj": {
+                "projectPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj"
               },
-              "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj": {
-                "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj"
+              "D:\\Fork\\Clean_Achitecture\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj": {
+                "projectPath": "D:\\Fork\\Clean_Achitecture\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj"
               }
             }
           }
@@ -169,14 +169,14 @@
         }
       }
     },
-    "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj": {
+    "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj",
+        "projectUniqueName": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj",
         "projectName": "Clean_Architecture.Share",
-        "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj",
+        "projectPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj",
         "packagesPath": "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\",
-        "outputPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Share\\obj\\",
+        "outputPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Share\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,7 +197,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj": {
+                "projectPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -235,14 +239,14 @@
         }
       }
     },
-    "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj": {
+    "D:\\Fork\\Clean_Achitecture\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj",
+        "projectUniqueName": "D:\\Fork\\Clean_Achitecture\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj",
         "projectName": "Clean_Architecture.Applicaiton",
-        "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj",
+        "projectPath": "D:\\Fork\\Clean_Achitecture\\Clearn_Architecture.Applicaiton\\Clean_Architecture.Applicaiton.csproj",
         "packagesPath": "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\",
-        "outputPath": "D:\\Fullstack\\ASP .NET\\API\\Clearn_Architecture.Applicaiton\\obj\\",
+        "outputPath": "D:\\Fork\\Clean_Achitecture\\Clearn_Architecture.Applicaiton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,11 +268,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj": {
-                "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj"
+              "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj": {
+                "projectPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj"
               },
-              "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj": {
-                "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj"
+              "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj": {
+                "projectPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Share\\Clean_Architecture.Share.csproj"
               }
             }
           }

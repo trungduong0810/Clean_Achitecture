@@ -4,6 +4,7 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using static Clean_Architecture.Applicaiton.Project.Commands.DeleteProject.DeleteProject;
 using static Clean_Architecture.Applicaiton.Project.Commands.UpdateProject.UpdateProject;
+using static Clean_Architecture.Applicaiton.Project.Commands.UpdateProject.UpdateStatusProject;
 using static Clean_Architecture.Applicaiton.Project.Queries.GetProjectById;
 
 namespace Clean_Architecture.API.Controllers
@@ -65,5 +66,12 @@ namespace Clean_Architecture.API.Controllers
             return Ok(result);
         }
 
+        // update status of project by id
+        [HttpPut("UpdateStatus/{projectId}")]
+        public async Task<IActionResult> UpdateProjectStatusByIdAsync(int projectId, [FromBody] UpdateProjectStatusRequest request)
+        {
+            var result = await _mediator.Send(new UpdateStatusProjectCommand(projectId, request.Status));
+            return Ok(result);
+        }
     }
 }

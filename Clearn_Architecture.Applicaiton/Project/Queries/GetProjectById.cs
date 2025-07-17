@@ -11,22 +11,15 @@ namespace Clean_Architecture.Applicaiton.Project.Queries
 
         public class GetProjectByIdQueryHandler : IRequestHandler<GetProjectByIdQuery, RESTfulAPIResponse<ProjectResponse>>
         {
-            private readonly IApplicationDbContext _context;
-            private readonly IProjectRepository _repository;
-
-            public GetProjectByIdQueryHandler(IApplicationDbContext context, IProjectRepository repository)
+            private readonly IGenericRepository<Domain.Entities.Project> _repositoryGeneric; // Use generic repository (entyties.Project)
+            public GetProjectByIdQueryHandler(IGenericRepository<Domain.Entities.Project> repositoryGeneric)
             {
-                _context = context;
-                _repository = repository;
+                _repositoryGeneric = repositoryGeneric;
             }
 
             public async Task<RESTfulAPIResponse<ProjectResponse>> Handle(GetProjectByIdQuery request, CancellationToken cancellationToken)
             {
-                /*var project = await _context.Projects
-                    .AsNoTracking()
-                    .FirstOrDefaultAsync(p => p.Id == request.Id, cancellationToken);*/
-
-                var project = await _repository.GetProjectByIdAsync(request.Id);
+                var project = await _repositoryGeneric.GetByIdAsync(request.Id);
 
                 if (project == null)
                     throw new KeyNotFoundException($"Project with ID {request.Id} not found.");

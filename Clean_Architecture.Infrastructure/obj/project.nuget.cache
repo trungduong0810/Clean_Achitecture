@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JeV4i/S7nQk=",
+  "dgSpecHash": "zHgB8vT4Y04=",
   "success": true,
-  "projectFilePath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
+  "projectFilePath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Infrastructure\\Clean_Architecture.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",

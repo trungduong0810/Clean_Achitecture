@@ -594,11 +594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
+      "projectUniqueName": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
       "projectName": "Clean_Architecture.Domain",
-      "projectPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
+      "projectPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
       "packagesPath": "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\",
-      "outputPath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\obj\\",
+      "outputPath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

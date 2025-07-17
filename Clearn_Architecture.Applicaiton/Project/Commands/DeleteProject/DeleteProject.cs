@@ -1,5 +1,4 @@
 ﻿using Clean_Architecture.Applicaiton.Common.Interfaces;
-using Clean_Architecture.Domain.Events;
 using Clean_Architecture.Share.ApiResponse;
 using MediatR;
 
@@ -13,21 +12,22 @@ namespace Clean_Architecture.Applicaiton.Project.Commands.DeleteProject
         {
             private readonly IApplicationDbContext _context;
 
-            public DeleteProjectCommandHandler(IApplicationDbContext context)
+            private readonly IGenericRepository<Domain.Entities.Project> _repositoryGeneric; // Use generic repository (entyties.Project)
+
+            public DeleteProjectCommandHandler(IApplicationDbContext context, IGenericRepository<Domain.Entities.Project> repositoryGeneric)
             {
                 _context = context;
+                _repositoryGeneric = repositoryGeneric;
             }
 
             public async Task<RESTfulAPIResponse<bool>> Handle(DeleteProjectCommand request, CancellationToken cancellationToken)
             {
-                var project = await _context.Projects.FindAsync(new object[] { request.Id }, cancellationToken);
+                var project = await _repositoryGeneric.ExistsAsync(request.Id);
 
-                if (project == null)
+                if (!project)
                     throw new KeyNotFoundException($"Project with ID {request.Id} not found.");
 
-                project.AddDomainEvent(new ProjectDeletedEvent(project));
-
-                _context.Projects.Remove(project);
+                await _repositoryGeneric.DeleteByIdAsync(request.Id);
 
                 await _context.SaveChangesAsync(cancellationToken);
 

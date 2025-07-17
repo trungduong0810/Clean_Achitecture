@@ -19,3 +19,25 @@ D:\Fullstack\ASP .NET\API\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Cle
 D:\Fullstack\ASP .NET\API\Clean_Architecture.Infrastructure\obj\Debug\net9.0\ref\Clean_Architecture.Infrastructure.dll
 D:\Fullstack\ASP .NET\API\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Share.dll
 D:\Fullstack\ASP .NET\API\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Share.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Infrastructure.deps.json
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Infrastructure.runtimeconfig.json
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Infrastructure.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Infrastructure.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Applicaiton.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Domain.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Share.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Domain.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Applicaiton.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\bin\Debug\net9.0\Clean_Architecture.Share.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.csproj.AssemblyReference.cache
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.AssemblyInfo.cs
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.sourcelink.json
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Ar.6C482909.Up2Date
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\refint\Clean_Architecture.Infrastructure.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\Clean_Architecture.Infrastructure.genruntimeconfig.cache
+D:\Fork\Clean_Achitecture\Clean_Architecture.Infrastructure\obj\Debug\net9.0\ref\Clean_Architecture.Infrastructure.dll

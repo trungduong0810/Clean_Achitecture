@@ -865,6 +865,9 @@
         }
       },
       "Clean_Architecture.Share/1.0.0": {
+        "dependencies": {
+          "Clean_Architecture.Domain": "1.0.0"
+        },
         "runtime": {
           "Clean_Architecture.Share.dll": {
             "assemblyVersion": "1.0.0.0",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pKVxZdZtlr4=",
+  "dgSpecHash": "oceY2swO4eQ=",
   "success": true,
-  "projectFilePath": "D:\\Fullstack\\ASP .NET\\API\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
+  "projectFilePath": "D:\\Fork\\Clean_Achitecture\\Clean_Architecture.Domain\\Clean_Architecture.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
     "C:\\Users\\TRUNG DUONG\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

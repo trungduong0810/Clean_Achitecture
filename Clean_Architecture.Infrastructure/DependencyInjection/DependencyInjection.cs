@@ -25,8 +25,9 @@ namespace Clean_Architecture.Infrastructure.DependencyInjection
             services.AddScoped<ISaveChangesInterceptor, AuditableEntityInterceptor>();
             services.AddScoped<ISaveChangesInterceptor, DispatchDomainEventsInterceptor>();
 
-            // register 
-            services.AddScoped<IProjectRepository, ProjectRepository>();
+            // register repositories
+            services.AddScoped<IProjectRepository, ProjectRepository>(); // Register specific repository for Project entity
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>)); // Register generic repository for all entities
 
             return services;
         }

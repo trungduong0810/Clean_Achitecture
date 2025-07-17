@@ -1,21 +1,13 @@
-﻿using Clean_Architecture.Applicaiton.Common.Interfaces;
+﻿using Clean_Architecture.Applicaiton.Project.Validators;
 using FluentValidation;
-using Microsoft.EntityFrameworkCore;
 
 namespace Clean_Architecture.Applicaiton.Project.Commands.CreateProject
 {
     public class CreateProjectCommandValidator : AbstractValidator<CreateProjectCommand>
     {
-        public CreateProjectCommandValidator(IApplicationDbContext context)
+        public CreateProjectCommandValidator()
         {
-            RuleFor(x => x.Project.Name)
-                .NotEmpty().WithMessage("Tên dự án không được để trống.")
-                .MaximumLength(500).WithMessage("Tên dự án tối đa 500 ký tự.")
-                .MustAsync(async (name, cancellation) =>
-                 {
-                     var exists = await context.Projects.AnyAsync(p => p.Name == name, cancellationToken: cancellation);
-                     return !exists;
-                 }).WithMessage("Tên dự án đã tồn tại.");
+            RuleFor(x => x.Project).SetValidator(new ProjectRequestValidator());
         }
     }
 }

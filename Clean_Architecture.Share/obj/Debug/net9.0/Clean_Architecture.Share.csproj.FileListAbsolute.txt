@@ -9,3 +9,19 @@ D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Archit
 D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\refint\Clean_Architecture.Share.dll
 D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.pdb
 D:\Fullstack\ASP .NET\API\Clean_Architecture.Share\obj\Debug\net9.0\ref\Clean_Architecture.Share.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\bin\Debug\net9.0\Clean_Architecture.Share.deps.json
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\bin\Debug\net9.0\Clean_Architecture.Share.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\bin\Debug\net9.0\Clean_Architecture.Share.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.AssemblyInfoInputs.cache
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.AssemblyInfo.cs
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.csproj.CoreCompileInputs.cache
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.sourcelink.json
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\refint\Clean_Architecture.Share.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\ref\Clean_Architecture.Share.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\bin\Debug\net9.0\Clean_Architecture.Domain.dll
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\bin\Debug\net9.0\Clean_Architecture.Domain.pdb
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Architecture.Share.csproj.AssemblyReference.cache
+D:\Fork\Clean_Achitecture\Clean_Architecture.Share\obj\Debug\net9.0\Clean_Ar.9538A54B.Up2Date

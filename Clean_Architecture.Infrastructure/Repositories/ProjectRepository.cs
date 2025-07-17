@@ -1,23 +1,27 @@
 ﻿using Clean_Architecture.Applicaiton.Common.Interfaces;
 using Clean_Architecture.Domain.Entities;
+using Clean_Architecture.Domain.Enums;
 using Clean_Architecture.Infrastructure.Persistence;
 
 namespace Clean_Architecture.Infrastructure.Repositories
 {
-    public class ProjectRepository : IProjectRepository
+    public class ProjectRepository : GenericRepository<Project>, IProjectRepository
     {
-        private readonly ApplicationDBContext _context;
 
-        public ProjectRepository(ApplicationDBContext context)
+        public ProjectRepository(ApplicationDBContext context) : base(context) { }
+
+        // Update status of a project
+        public async Task<bool> UpdateStatusAsync(int id, ProjectStatus status)
         {
-            _context = context;
-        }
+            var project = await _dbSet.FindAsync(id);
 
-        // get project by id 
-        public async Task<Project?> GetProjectByIdAsync(int id)
-        {
-            return await _context.Projects.FindAsync(id);
-        }
+            if (project is null)
+                return false;
 
+            project.Status = status;
+            await _context.SaveChangesAsync();
+
+            return true;
+        }
     }
 }
